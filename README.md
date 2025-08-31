@@ -1,1 +1,1 @@
-# 7thplace_kaggle_NCAA_solutions
+# 7thplace_kaggle_NCAA2025_solutions
